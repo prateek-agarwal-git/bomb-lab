@@ -9,6 +9,8 @@ ASCII string available within the address space.
 ## Level 2
 Numeric calculations
 ## Level 3
-Combines the concepts introduced in Level 1 and Level 2. Not a unique answer.
-
+Combines the concepts introduced in Level 1, Level 2, and little endianness. Not a unique answer.
+## Level 4
+Similar to level 3. Another function call inside phase\_4 besides sscanf. Not bothering now to  find multiple answers.
+ 
 
